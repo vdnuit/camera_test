@@ -2,13 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Vanilla from './Vanilla';
+import Crop from './Crop';
 import Webcam from './Webcam';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Vanilla />
+    <Crop />
+    {/* <Vanilla /> */}
     {/* <Webcam /> */}
   </React.StrictMode>
 );
