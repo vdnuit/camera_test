@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/camera_test/static/css/main.68f72e48.css",
-    "main.js": "/camera_test/static/js/main.e09fca5f.js",
+    "main.js": "/camera_test/static/js/main.df8f2753.js",
     "static/js/496.4187ae8b.chunk.js": "/camera_test/static/js/496.4187ae8b.chunk.js",
     "index.html": "/camera_test/index.html",
     "main.68f72e48.css.map": "/camera_test/static/css/main.68f72e48.css.map",
-    "main.e09fca5f.js.map": "/camera_test/static/js/main.e09fca5f.js.map",
+    "main.df8f2753.js.map": "/camera_test/static/js/main.df8f2753.js.map",
     "496.4187ae8b.chunk.js.map": "/camera_test/static/js/496.4187ae8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68f72e48.css",
-    "static/js/main.e09fca5f.js"
+    "static/js/main.df8f2753.js"
   ]
 }
